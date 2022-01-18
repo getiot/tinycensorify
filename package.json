@@ -1,7 +1,7 @@
 {
     "author": "Rudy Lo",
     "name": "tinycensorify",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Censors words out of text",
     "main": "censortext",
     "repository": {
